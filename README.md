@@ -1,1 +1,1 @@
-# Chat-app
+Base-for-django-webapps
